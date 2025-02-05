@@ -1,4 +1,5 @@
 ## 👋 Hi there, I am Yvonne
+I am a frontend developer in training, with a focus on creating interactive and responsive web applications. My training covers a variety of modern frontend technologies and tools, which are listed below.
 
 ## 🌐 Socials:
 
