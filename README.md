@@ -11,4 +11,5 @@ I am a frontend developer in training, with a focus on creating interactive and 
 - [Personalized Nutrition Coaching ](https://github.com/YvonneJL/Personalized_Nutrition_Coaching)
 - [Hangman-Game](https://github.com/YvonneJL/Hangman-Game)
 - [Fake API Shop](https://github.com/YvonneJL/Fake_Shop_API)
+- [Cheeky Quiz](https://github.com/YvonneJL/Cheeky-Quiz-Project)
 
