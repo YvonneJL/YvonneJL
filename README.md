@@ -13,7 +13,7 @@ I am a frontend developer in training, with a focus on creating interactive and 
 - [Fake API Shop](https://github.com/YvonneJL/Fake_Shop_API)
 - [Cheeky Quiz](https://github.com/YvonneJL/Cheeky-Quiz-Project)
 - [Secret Login Page](https://github.com/YvonneJL/Secret-Login-Project)
-- [Pokemon Team Projekt](https://github.com/YvonneJL/Team-Project-Pokemon-API)
+- [Pokemon Team Projekt](https://github.com/YvonneJL/Project-Pokemon-API)
 - [.MOV Team React Projekt](https://github.com/YvonneJL/.MOV-React-Project)
 - [Rock Paper Scissors Game](https://github.com/YvonneJL/Rock-Paper-Scissors-React-Project)
 
